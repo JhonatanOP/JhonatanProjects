@@ -5,29 +5,29 @@
 - <b>DoS attack Home Lab</b>
   - [Denial of Service Attack](https://github.com/JhonatanOP/DoSAttackLab)
 
--<b>Performing Reconnaissance on a Network </b>
+- <b>Performing Reconnaissance on a Network </b>
 
--<b>Using Rainbow Tables</b>
+- <b>Using Rainbow Tables</b>
 
--<b>Conducting IP Spoofing</b>
+- <b>Conducting IP Spoofing</b>
 
--<b>Performing a MITM Attack</b>
+- <b>Performing a MITM Attack</b>
 
--<b>Setting up a Demilitarized Zone (DMZ)</b>
+- <b>Setting up a Demilitarized Zone (DMZ)</b>
 
 <h2>👨‍💻 IT Support Projects: </h2>
 
--<b>Creating an Organizational Unit</b>
+- <b>Creating an Organizational Unit</b>
 
--<b>Managing NTFS Permissions</b>
+- <b>Managing NTFS Permissions</b>
 
--<b>Installing the Proxy Server Feature</b>
+- <b>Installing the Proxy Server Feature</b>
 
--<b>Configuring Windows Defender Firewall</b>
+- <b>Configuring Windows Defender Firewall</b>
 
--<b>Configuring Network Address Translation (NAT)</b>
+- <b>Configuring Network Address Translation (NAT)</b>
 
--<b>Configuring a VPN</b>
+- <b>Configuring a VPN</b>
 
 <h2> 🤳 Connect with me:</h2>
 
