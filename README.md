@@ -5,7 +5,7 @@
 - <b>DoS attack Home Lab</b>
   - [Denial of Service Attack](https://github.com/JhonatanOP/DoSAttackLab)
 
--<b>Perfomring Reconnaissance on a Network </b>
+-<b>Performing Reconnaissance on a Network </b>
 
 -<b>Using Rainbow Tables</b>
 
