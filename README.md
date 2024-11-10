@@ -15,7 +15,7 @@
 
 - <b>Setting up a Demilitarized Zone (DMZ)</b>
 
-<h2>👨‍💻 IT Support Projects: </h2>
+<h2>👨‍💻 Network Administrator Projects: </h2>
 
 - <b>Creating an Organizational Unit</b>
 
