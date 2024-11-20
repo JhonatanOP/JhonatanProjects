@@ -1,4 +1,4 @@
-<h1>Hi, I'm Jhonatan! <br/><a href="https://www.linkedin.com/in/jhonatan-oyola/">Cybersecurity Professional</a>, <a href="https://www.linkedin.com/in/jhonatan-oyola/">IT Support Specialist</a>
+<h1>Hi, I'm Jhonatan! <br/><a href="https://www.linkedin.com/in/jhonatan-oyola/">Cybersecurity Professional</a>, <a href="https://www.linkedin.com/in/jhonatan-oyola/">Network Administrator</a>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
