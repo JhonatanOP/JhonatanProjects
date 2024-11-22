@@ -7,27 +7,13 @@
 
 - <b>Performing Reconnaissance on a Network </b>
   - [Reconnaisance on a Network](https://github.com/JhonatanOP/PerformingReconnaisance)
-- <b>Using Rainbow Tables</b>
 
-- <b>Conducting IP Spoofing</b>
-
-- <b>Performing a MITM Attack</b>
-
-- <b>Setting up a Demilitarized Zone (DMZ)</b>
 
 <h2>👨‍💻 Network Administrator Projects: </h2>
 
 - <b>Creating an Organizational Unit</b>
   - [Organizational Unit](https://github.com/JhonatanOP/OrganizationalUnit)
-- <b>Managing NTFS Permissions</b>
 
-- <b>Installing the Proxy Server Feature</b>
-
-- <b>Configuring Windows Defender Firewall</b>
-
-- <b>Configuring Network Address Translation (NAT)</b>
-
-- <b>Configuring a VPN</b>
 
 <h2> 🤳 Connect with me:</h2>
 
