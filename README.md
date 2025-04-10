@@ -6,7 +6,9 @@
   - [Preignition has been Pwned!(Certificate)](https://www.hackthebox.com/achievement/machine/2313849/397)
   - [Cap has been Pwned!(Certificate)](https://www.hackthebox.com/achievement/machine/2313849/351)
   - [Mongod has been Pwned!(Certificate)](https://www.hackthebox.com/achievement/machine/2313849/501)
-    
+  - [Synced has been Pwned!(Certificate)](https://www.hackthebox.com/achievement/machine/2313849/515)
+
+
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>DoS attack Home Lab</b>
