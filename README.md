@@ -8,7 +8,7 @@
   - [Mongod has been Pwned!(Certificate)](https://www.hackthebox.com/achievement/machine/2313849/501)
   - [Synced has been Pwned!(Certificate)](https://www.hackthebox.com/achievement/machine/2313849/515)
   - [Lame has been Pwned!(Certificate)](https://www.hackthebox.com/achievement/machine/2313849/1)
-  - 
+  - [Crocodile has been Pwned!(Certificate)](https://www.hackthebox.com/achievement/machine/2313849/404)
 
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
