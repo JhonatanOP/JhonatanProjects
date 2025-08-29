@@ -26,6 +26,7 @@
 
 - <b>Creating an Organizational Unit</b>
   - [Organizational Unit](https://github.com/JhonatanOP/OrganizationalUnit)
+  - [Packet Trace Network Lab](https://github.com/JhonatanOP/PacketTracerNetworkLab)
 
 
 <h2> 🤳 Connect with me:</h2>
