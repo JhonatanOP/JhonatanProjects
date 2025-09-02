@@ -13,7 +13,7 @@
   - [More...](https://github.com/JhonatanOP/PwnedMachines.git)
 
 
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+<h2>💻 Cybersecurity Projects:</h2>
 
 - <b> DoS attack Home Lab </b>
   - [Denial of Service Attack](https://github.com/JhonatanOP/DoSAttackLab)
