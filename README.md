@@ -17,7 +17,6 @@
 
 - <b>DoS attack Home Lab</b>
   - [Denial of Service Attack](https://github.com/JhonatanOP/DoSAttackLab)
-
 - <b>Performing Reconnaissance on a Network </b>
   - [Reconnaisance on a Network](https://github.com/JhonatanOP/PerformingReconnaisance)
 
@@ -28,6 +27,8 @@
   - [Organizational Unit](https://github.com/JhonatanOP/OrganizationalUnit)
 - <b> Packet Tracer Network Lab </b>
   - [Simple LAN Topology](https://github.com/JhonatanOP/PacketTracerNetworkLab)
+ - <b> Network Monitoring Lab </b>
+  - [Wireshark and Grafana](https://github.com/JhonatanOP/NetworkMonitoringLab)
 
 
 <h2> 🤳 Connect with me:</h2>
