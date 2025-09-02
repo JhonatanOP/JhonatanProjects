@@ -1,6 +1,6 @@
 <h1>Hi, I'm Jhonatan!(KrypticO) <br/><a href="https://www.linkedin.com/in/jhonatan-oyola/">Cybersecurity Professional</a>, <a href="https://www.linkedin.com/in/jhonatan-oyola/">Network Administrator</a>
 
-<h2> 🚩Capture The Flag </h2>
+<h2> 🏴‍☠️ Capture The Flag </h2>
 
 - <b> Preignition Machine</b>
   - [Preignition has been Pwned!(Certificate)](https://www.hackthebox.com/achievement/machine/2313849/397)
