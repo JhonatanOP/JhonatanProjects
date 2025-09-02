@@ -1,4 +1,4 @@
-# Hi, I'm Jhonatan! (Kryptico)
+# Hi, I'm Jhonatan! (KrypticO)
 
 **Cybersecurity Professional, Network Administrator**
 
