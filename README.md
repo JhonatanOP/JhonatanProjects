@@ -15,10 +15,18 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <b>DoS attack Home Lab</b>
+- <b> DoS attack Home Lab </b>
   - [Denial of Service Attack](https://github.com/JhonatanOP/DoSAttackLab)
-- <b>Performing Reconnaissance on a Network </b>
-  - [Reconnaisance on a Network](https://github.com/JhonatanOP/PerformingReconnaisance)
+- <b>**Performing Reconnaissance on a Network** </b>
+  - [Performing Reconnaissance on a Network](https://github.com/JhonatanOP/ReconnaissanceOnANetwork)
+- <b>**OverTheWire Bandit Lab**</b>
+  - [OverTheWire Bandit Lab](https://github.com/JhonatanOP/OverTheWireBanditLab)
+- <b>**Web Application Penetration Test**</b>
+  - [DVWA-WebApp PenTest](https://github.com/JhonatanOP/DVWA-WebAppPenTest)
+- <b>**Network Penetration Test: Metasploitable2**</b>
+  - [Network PenTest: Metasploitable2](https://github.com/JhonatanOP/NetworkPenTest-Metasploitable2)
+- <b>**Custom Password Cracker**</b>
+  - [Custom Password Cracker](https://github.com/JhonatanOP/CustomPasswordCracker)
 
 
 <h2>👨‍💻 Network Administrator Projects: </h2>
