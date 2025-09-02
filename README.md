@@ -31,6 +31,8 @@
   - [Wireshark and Grafana](https://github.com/JhonatanOP/NetworkMonitoringLab)
 - <b> Active Directory Lab </b> 
   - [Active Directory File Share](https://github.com/JhonatanOP/ActiveDirectoryFileShare)
+- <b> Enterprise VLAN </b>
+  - [Enterprise VLAN](https://github.com/JhonatanOP/EnterpriseNetworkBuildout)
 
 <h2> 🤳 Connect with me:</h2>
 
