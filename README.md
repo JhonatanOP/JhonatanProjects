@@ -29,7 +29,7 @@
   - [Custom Password Cracker](https://github.com/JhonatanOP/CustomPasswordCracker)
 
 
-<h2>👨‍💻 Network Administrator Projects: </h2>
+<h2>🕹️ Network Administrator Projects: </h2>
 
 - <b>Creating an Organizational Unit</b>
   - [Organizational Unit](https://github.com/JhonatanOP/OrganizationalUnit)
