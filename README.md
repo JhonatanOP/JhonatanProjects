@@ -27,7 +27,7 @@
   - [Organizational Unit](https://github.com/JhonatanOP/OrganizationalUnit)
 - <b> Packet Tracer Network Lab </b>
   - [Simple LAN Topology](https://github.com/JhonatanOP/PacketTracerNetworkLab)
- - <b> Network Monitoring Lab </b>
+- <b> Network Monitoring Lab </b>
   - [Wireshark and Grafana](https://github.com/JhonatanOP/NetworkMonitoringLab)
 
 
